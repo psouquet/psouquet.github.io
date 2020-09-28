@@ -5,4 +5,8 @@ subtitle: Software & games developper
 hero_height: is-halfheight
 ---
 
-Welcome to my humble site !  
+Hi !  
+Welcome to my humble site. 
+
+I'm a software engineer developping games on my spare time and looking to transition to the gaming industry soon.  
+You can learn more about me here and see some of my work.

@@ -24,8 +24,8 @@ github_username: psouquet
 gitlab_username: psouquet
 linkedin_username: pierre-souquet-18955528
 
-# Theme for local testing, rempte_theme to publish on github
-# theme: bulma-clean-theme
+# Theme for local testing, remote_theme to publish on github
+theme: bulma-clean-theme
 remote_theme: chrisrhymes/bulma-clean-theme
 
 # Build settings
